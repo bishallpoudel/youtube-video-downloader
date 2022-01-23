@@ -5,12 +5,13 @@
 
 * videos and audios dir will automatically created in main program directory and the videos will be download in videos and audios in audios dir.
 
-* To use provided virtual environment
+* To use provided virtual environment or you can just ignore it
 > In Linux `source virtual_env/bin/activate`
 
 * Run program simply by:
-> `./youtubeDownloader.py` OR
-> `python3 youtubeDownloader.py`
+> `./youtubeDownloader.py` Only Linux
+
+> `python3 youtubeDownloader.py` For All OS
 
 * First give the valid url, then choose video with audio, video or audio what you wants to download. Follow the given instructions. Finally enter the corresponding itag number to download required file.
 
